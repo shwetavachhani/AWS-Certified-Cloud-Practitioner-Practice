@@ -1,1 +1,9 @@
 # AWS-Certified-Cloud-Practitioner-Practice
+
+
+<h1>
+    What is cloud computing?
+</h1>
+<p>Cloud computing is the on-demand delivery of compute power, database, storage, applications, and other IT resources through a cloud services platform through the internet with pay-as-you-go pricing. Traditionally, a developer looking to build an application had to procure, set up, and maintain physical infrastructure and the application. This is where cloud computing comes in.
+    A cloud services platform provides rapid access to flexible and low-cost IT resources that you can use to build and maintain software and databases, and create applications to delight customers. You don’t need to make large upfront investments in hardware and spend a lot of time on the heavy lifting of managing that hardware. You can access as many resources as you need, almost instantly, and only pay for what you use. On-demand, pay-as-you-go access to services is fundamental to the cloud computing model.
+</p>
