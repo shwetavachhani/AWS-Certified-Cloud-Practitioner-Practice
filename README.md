@@ -1,4 +1,4 @@
-# AWS-Certified-Cloud-Practitioner-Practice
+# AWS-Certified-Cloud-Practitioner-Knowledge
 
 
 <h1>
@@ -15,4 +15,7 @@
 </li>
 <li>
 <b>Benefit from massive economies of scale</b> - AWS aggregates usage from hundreds of thousands of customers in the cloud, which leads to higher economies of scale. This translates into lower pay-as-you-go prices.</li>
+</ul>
+<li>
+<b>Stop guessing capacity</b> - When you make a capacity decision prior to deploying an application, you often end up either sitting on expensive idle resources or dealing with limited capacity. With cloud computing, you can access as much or as little capacity as you need, and scale up and down as required with only a few minutes notice.</li>
 </ul>
