@@ -15,7 +15,12 @@
 </li>
 <li>
 <b>Benefit from massive economies of scale</b> - AWS aggregates usage from hundreds of thousands of customers in the cloud, which leads to higher economies of scale. This translates into lower pay-as-you-go prices.</li>
-</ul>
 <li>
 <b>Stop guessing capacity</b> - When you make a capacity decision prior to deploying an application, you often end up either sitting on expensive idle resources or dealing with limited capacity. With cloud computing, you can access as much or as little capacity as you need, and scale up and down as required with only a few minutes notice.</li>
+<li>
+<b>Increase speed and agility</b> - IT resources are only a click away, which means that you reduce the time to make resources available to your developers from weeks to minutes. This dramatically increases agility for the organization, because the cost and time it takes to experiment and develop is significantly lower.</li>
+<li>
+<b>Realize cost savings</b> - Companies can focus on projects that differentiate their business instead of maintaining data centers. With cloud computing, you can focus on your customers, rather than on the heavy lifting of racking, stacking, and powering physical infrastructure.</li>
+<li>
+<b>Go global in minutes</b> - Applications can be deployed in multiple Regions around the world with a few clicks. This means that you can provide lower latency and a better experience for your customers at a minimal cost.</li>
 </ul>
